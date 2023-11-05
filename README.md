@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeKenj
-- 👀 I’m interested in learning web3  
-- 🌱 I’m currently learning how to write smart contracts
+- 👀 I’m interested in learning data Analytics
+- 🌱 I’m currently learning about Data Analytics
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me twitter:@ephraim_kenj
 
